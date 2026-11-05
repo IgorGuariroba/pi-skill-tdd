@@ -1,0 +1,25 @@
+{
+  "name": "@igor-guari/pi-skill-tdd",
+  "version": "1.0.0",
+  "description": "Test-Driven Development skill for Pi Agent (adapted from Matt Pocock's Engineering Skills)",
+  "keywords": [
+    "pi-package",
+    "pi-skill",
+    "pi",
+    "tdd",
+    "test-driven-development",
+    "engineering-skills"
+  ],
+  "author": "Igor Guariroba",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorGuariroba/pi-skill-tdd.git"
+  },
+  "homepage": "https://github.com/IgorGuariroba/pi-skill-tdd#readme",
+  "pi": {
+    "skills": [
+      "."
+    ]
+  }
+}
